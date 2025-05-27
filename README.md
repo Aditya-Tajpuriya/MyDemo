@@ -1,4 +1,4 @@
 # MyDemo
 This is my first Git Repository.
 <br>
-Author - Aditya Tajpuriya
+Author - Aditya/Manish Tajpuriya
